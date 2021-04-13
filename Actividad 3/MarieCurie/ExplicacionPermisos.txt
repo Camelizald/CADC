@@ -1,0 +1,9 @@
+*DIRECTOS*
+Es el permiso asignado a un individuo que le da el privilegio de 
+realizar tareas administrativas sobre dicho objeto.
+*HEREDADOS*
+Esta clase de permiso se da a un permiso o grupo que le pasa el permiso
+a todos los usuarios que tengan acceso al grupo, por lo tanto, todos los usuarios con
+acceso al grupo, tendrán acceso a todos los archivos de la carpeta.
+*EFECTIVOS*
+Todos los permisos del usuario, incluyendo directos y heredados.

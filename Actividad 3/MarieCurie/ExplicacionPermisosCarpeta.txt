@@ -1,0 +1,9 @@
+
+*LECTURA*
+Sólo podra listar los contenidos de la carpeta, sin crear ni modificar los elementos.
+*ESCRITURA*
+Puede modificarlo e incluso puede eliminar los archivos listados o bien, la carpeta.
+*EJECUCIÓN*
+ Si se trata de un fichero binario quien posea este permiso podrá ejecutarlo. 
+Si se trata de una carpeta podrá explorar su contenido y acceder también a las 
+características de los archivos o carpetas que contenga.
